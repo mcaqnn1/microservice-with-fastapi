@@ -11,7 +11,7 @@
 | Язык | Python 3.12 |
 | Фреймворк | FastAPI |
 | База данных | PostgreSQL |
-| Брокер сообщений | Redis | Celery |
+| Брокер сообщений | Redis,Celery | 
 | Контейнеризация | Docker & Docker Compose |
 | Тестирование | Pytest |
 | CI/CD | GitHub Actions |
